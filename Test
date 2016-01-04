@@ -1,0 +1,6 @@
+{
+  "name": "TestPlugin",
+  "url": "https://github.com/me/xcode-test-plugin",
+  "description": "Makes Xcode stop, collaborate and listen.",
+  "screenshot": "http://raw.github.com/me/awesome-screenshot.png"
+}
